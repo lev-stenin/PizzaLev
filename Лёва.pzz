@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Name>
+      <FirstName>Лев</FirstName>
+      <LastName>Стенин</LastName>
+    </Name>
+    <Address>
+      <Street />
+      <Building>0</Building>
+    </Address>
+    <PhoneNumber />
+  </Client>
+  <Pizza>
+    <Ingredients>
+      <Ingredients>Tomato</Ingredients>
+      <Ingredients>Cheeze</Ingredients>
+      <Ingredients>Onion</Ingredients>
+      <Ingredients>Bacon</Ingredients>
+    </Ingredients>
+    <Size>43</Size>
+  </Pizza>
+</Order>
